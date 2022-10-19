@@ -1,7 +1,10 @@
 body {
     font-family: 'Quicksand', sans-serif;
+
     background-image: url('..images/background.jpg');
-    color: rgb(128, 77, 0);
+
+    color: rgb(128, 0, 43);
+
     font-size: 15px;
 }
 
