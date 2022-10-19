@@ -17,3 +17,5 @@ Input Place of Birth
 Output Akan name.
 
 You can view the live application by following this link <https://github.com/OleShangti/Pro-Dev-Wk2.git>
+
+@2022
