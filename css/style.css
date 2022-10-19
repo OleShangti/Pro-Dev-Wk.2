@@ -1,17 +1,17 @@
 body {
     font-family: 'Quicksand', sans-serif;
     background-image: url('..images/background.jpg');
-    color: rgb(23, 0, 128);
-    font-size: 16px;
+    color: rgb(128, 77, 0);
+    font-size: 15px;
 }
 
 h1 {
-    font-size: 35px;
-    padding-top: 15px;
+    font-size: 30px;
+    padding-top: 10px;
 }
 
 .container {
-    width: 8800;
+    width: 8600;
     margin: auto;
 }
 
